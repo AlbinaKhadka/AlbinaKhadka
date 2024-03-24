@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albinakhadka&label=Profile%20views&color=0e75b6&style=flat" alt="albinakhadka" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,PHP,PYTHON**
+- 🌱 I’m currently learning **HTML,CSS,PHP,Laravel,Boostraps**
 
-- 💬 Ask me about **Android App(java)**
+- 💬 Ask me about **Laravel(Voyager)**
 
 - 📫 How to reach me **khadkaalbina64@gmail.com**
 
