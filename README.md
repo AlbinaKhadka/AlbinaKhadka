@@ -1,7 +1,6 @@
 <!-- Header -->
 <div align="center">
 
-![Banner](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 
 # Albina Khadka
 
@@ -60,8 +59,8 @@ I'm a **Full Stack Developer** based in **Lalitpur, Nepal** passionate about bui
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=albinakhadka&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" alt="Albina's GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinakhadka&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=albinakhadka&theme=github-dark&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff" alt="GitHub Streak" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinakhadka&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages" height="165" />
 
 </div>
 
