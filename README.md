@@ -1,44 +1,80 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+<!-- Header -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Albina Khadka</h1>
-<h3 align="center">Web Developer | Building Projects with PHP, Laravel, and Web Technologies</h3>
+![Banner](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+# Albina Khadka
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=albinakhadka&label=Profile%20views&color=0e75b6&style=flat" alt="albinakhadka" /> </p>
+**Full Stack Developer** · Laravel · PHP · Vue.js
 
-- 🌱 I’m currently working with **PHP, Laravel, HTML, CSS, JavaScript**
-- 💬 Ask me about **Web Development & Laravel**
-- 📫 How to reach me: **khadkaalbina64@gmail.com**
+[![Portfolio](https://img.shields.io/badge/Portfolio-albinak.com.np-388bfd?style=flat-square&logo=google-chrome&logoColor=white)](https://www.albinak.com.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-albinakhadka-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albinakhadka/)
+[![GitHub](https://img.shields.io/badge/GitHub-AlbinaKhadka-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AlbinaKhadka)
+[![Email](https://img.shields.io/badge/Email-albina.khadkaoo6@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:albina.khadkaoo6@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Freelance%20%26%20Full--Time-3fb950?style=flat-square)](https://www.albinak.com.np/#contact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/albinakhadka/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://dribbble.com/khadkaalbina64" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-</a> 
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a>
-</p>
+</div>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a>
-</p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=albinakhadka&show_icons=true&locale=en" alt="albinakhadka" /></p>
+### About Me
+
+I'm a **Full Stack Developer** based in **Lalitpur, Nepal** passionate about building clean, scalable web applications. I enjoy working across the full stack — from designing robust backend APIs to crafting smooth frontend experiences.
+
+- 🔭 Currently working on **Laravel-based enterprise systems**
+- 🌱 Always exploring new tools and best practices in web development
+- 💬 Ask me about **PHP, Laravel, Vue.js, or anything web**
+- 📍 **Location:** Lalitpur, Nepal
+- 💼 **Open to:** Full-time roles & freelance projects
+
+---
+
+### Tech Stack
+
+**Backend & Server**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
+
+**Frontend**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Tools & Workflow**
+
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=albinakhadka&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" alt="Albina's GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albinakhadka&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="165" />
+
+</div>
+
+---
+
+### Connect
+
+<div align="center">
+
+| 🌐 Portfolio | 💼 LinkedIn | 💻 GitHub | 📧 Email |
+|:---:|:---:|:---:|:---:|
+| [albinak.com.np](https://www.albinak.com.np) | [albinakhadka](https://www.linkedin.com/in/albinakhadka/) | [AlbinaKhadka](https://github.com/AlbinaKhadka) | [albina.khadkaoo6@gmail.com](mailto:albina.khadkaoo6@gmail.com) |
+
+![Profile Views](https://komarev.com/ghpvc/?username=albinakhadka&color=388bfd&style=flat-square&label=Profile+Views)
+
+</div>
